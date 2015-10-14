@@ -6,6 +6,7 @@
 
 3.[ssh  远程登陆 +无密码登陆](https://github.com/xyzphp/laravel/blob/master/laravel/ssh-conn.md)
 
+4.[git的使用教程](https://github.com/xyzphp/laravel/blob/master/laravel/use-git.md)
 
 
 
