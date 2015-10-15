@@ -8,6 +8,7 @@
 
 4.[git的使用教程](https://github.com/xyzphp/laravel/blob/master/laravel/use-git.md)
 
+5.[git小技巧-代码补全](https://github.com/xyzphp/laravel/blob/master/laravel/git-completion.md)
 
 
 
