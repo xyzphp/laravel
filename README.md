@@ -10,6 +10,7 @@
 
 5.[git小技巧-代码补全](https://github.com/xyzphp/laravel/blob/master/laravel/git-completion.md)
 
+6.[搭建git服务器+自动化部署](https://github.com/xyzphp/laravel/blob/master/laravel/git-server.md)
 
 
 
