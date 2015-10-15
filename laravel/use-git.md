@@ -121,4 +121,8 @@ git的使用操作
 		git tag -s tagname -m "标签信息" commit_id       //用私钥签名一个标签
 		
 		git show tagname                                //查看标签
+
+17. 谁动了我的代码
+
+		git blame [file_name]                           //查看谁对这个文件进行了更改操作
 		
